@@ -1,4 +1,4 @@
-# Porfolio_BharatIntern
+# Netflix_BharatIntern
 
 ![feature-3](https://github.com/BinduSriMCA/Porfolio_BharatIntern/assets/152304689/6ddd67fc-fc2d-403f-bdae-da9c4b467310)
 ![feature-4](https://github.com/BinduSriMCA/Porfolio_BharatIntern/assets/152304689/40ea55cb-b5c4-49b5-b767-d0eb02ce1328)
